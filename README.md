@@ -1,6 +1,3 @@
-# School-Management-System
-
-
 
 # School Management System
 
@@ -149,5 +146,5 @@ School Name: Palestine School Total Teachers: 2 Students: Student ID: 1, Name: A
      </PropertyGroup>
    </Project>
 
-dotnet restore
-dotnet run
+##dotnet restore
+##dotnet run
